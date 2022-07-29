@@ -1,0 +1,6 @@
+E:\make new roblos hax xd\AWE (2)\AWE\AWE\AWE\obj\x64\Release\AWE.csproj.AssemblyReference.cache
+E:\make new roblos hax xd\AWE (2)\AWE\AWE\AWE\obj\x64\Release\AWE.csproj.SuggestedBindingRedirects.cache
+E:\make new roblos hax xd\AWE (2)\AWE\AWE\AWE\obj\x64\Release\AWE.mics.resources
+E:\make new roblos hax xd\AWE (2)\AWE\AWE\AWE\obj\x64\Release\AWE.AWEh.resources
+E:\make new roblos hax xd\AWE (2)\AWE\AWE\AWE\obj\x64\Release\AWE.Properties.Resources.resources
+E:\make new roblos hax xd\AWE (2)\AWE\AWE\AWE\obj\x64\Release\AWE.csproj.GenerateResource.cache

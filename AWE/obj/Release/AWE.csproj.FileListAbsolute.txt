@@ -1,0 +1,2 @@
+E:\make new exploit xd\AWE\AWE\obj\Release\AWE.csproj.AssemblyReference.cache
+E:\make new exploit xd\AWE\AWE\obj\Release\AWE.csproj.SuggestedBindingRedirects.cache

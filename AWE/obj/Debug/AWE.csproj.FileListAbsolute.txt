@@ -1,0 +1,86 @@
+E:\make new exploit xd\AWE\AWE\bin\Debug\AWE.exe.config
+E:\make new exploit xd\AWE\AWE\bin\Debug\AWE.exe
+E:\make new exploit xd\AWE\AWE\bin\Debug\AWE.pdb
+E:\make new exploit xd\AWE\AWE\bin\Debug\Siticone.UI.dll
+E:\make new exploit xd\AWE\AWE\obj\Debug\AWE.csproj.AssemblyReference.cache
+E:\make new exploit xd\AWE\AWE\obj\Debug\AWE.csproj.SuggestedBindingRedirects.cache
+E:\make new exploit xd\AWE\AWE\obj\Debug\AWE.AWEh.resources
+E:\make new exploit xd\AWE\AWE\obj\Debug\AWE.Properties.Resources.resources
+E:\make new exploit xd\AWE\AWE\obj\Debug\AWE.csproj.GenerateResource.cache
+E:\make new exploit xd\AWE\AWE\obj\Debug\AWE.csproj.CoreCompileInputs.cache
+E:\make new exploit xd\AWE\AWE\obj\Debug\AWE.csproj.CopyComplete
+E:\make new exploit xd\AWE\AWE\obj\Debug\AWE.exe
+E:\make new exploit xd\AWE\AWE\obj\Debug\AWE.pdb
+E:\make new exploit xd\AWE\AWE\obj\Debug\AWE.AWEm.resources
+E:\make new exploit xd\AWE\AWE\bin\Debug\MaterialDesignColors.dll
+E:\make new exploit xd\AWE\AWE\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\make new exploit xd\AWE\AWE\bin\Debug\MaterialDesignColors.pdb
+E:\make new exploit xd\AWE\AWE\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\make new exploit xd\AWE\AWE\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\make new exploit xd\AWE\AWE\bin\Debug\FastColoredTextBox.dll
+E:\make new exploit xd\AWE\AWE\bin\Debug\VisualStudioTabControl.dll
+E:\make new exploit xd\AWE\AWE\obj\Debug\AWE.apistab.resources
+E:\make new exploit xd\AWE\AWE\bin\Debug\EasyExploits.dll
+C:\Users\http0\Downloads\AWE\AWE\AWE\obj\Debug\AWE.csproj.AssemblyReference.cache
+C:\Users\http0\Downloads\AWE\AWE\AWE\obj\Debug\AWE.csproj.SuggestedBindingRedirects.cache
+C:\Users\http0\Downloads\AWE\AWE\AWE\obj\Debug\AWE.apistab.resources
+C:\Users\http0\Downloads\AWE\AWE\AWE\obj\Debug\AWE.AWEh.resources
+C:\Users\http0\Downloads\AWE\AWE\AWE\obj\Debug\AWE.awem.resources
+C:\Users\http0\Downloads\AWE\AWE\AWE\obj\Debug\AWE.Properties.Resources.resources
+C:\Users\http0\Downloads\AWE\AWE\AWE\obj\Debug\AWE.csproj.GenerateResource.cache
+C:\Users\http0\Downloads\AWE\AWE\AWE\obj\Debug\AWE.csproj.CoreCompileInputs.cache
+C:\Users\http0\Downloads\AWE\AWE\AWE\obj\Debug\AWE.pdb
+E:\make new exploit xd\AWE (1)\AWE\AWE\AWE\obj\Debug\AWE.csproj.AssemblyReference.cache
+E:\make new exploit xd\AWE (1)\AWE\AWE\AWE\obj\Debug\AWE.csproj.SuggestedBindingRedirects.cache
+E:\make new exploit xd\AWE (1)\AWE\AWE\AWE\obj\Debug\AWE.AWEh.resources
+E:\make new exploit xd\AWE (1)\AWE\AWE\AWE\obj\Debug\AWE.awem.resources
+E:\make new exploit xd\AWE (1)\AWE\AWE\AWE\obj\Debug\AWE.Properties.Resources.resources
+E:\make new exploit xd\AWE (1)\AWE\AWE\AWE\obj\Debug\AWE.csproj.GenerateResource.cache
+E:\make new exploit xd\AWE (1)\AWE\AWE\AWE\obj\Debug\AWE.csproj.CoreCompileInputs.cache
+E:\make new exploit xd\AWE (1)\AWE\AWE\AWE\obj\Debug\AWE.pdb
+E:\make new exploit xd\AWE (1)\AWE\AWE\AWE\bin\Debug\AWE.exe.config
+E:\make new exploit xd\AWE (1)\AWE\AWE\AWE\bin\Debug\AWE.exe
+E:\make new exploit xd\AWE (1)\AWE\AWE\AWE\bin\Debug\AWE.pdb
+E:\make new exploit xd\AWE (1)\AWE\AWE\AWE\bin\Debug\MaterialDesignColors.pdb
+E:\make new exploit xd\AWE (1)\AWE\AWE\AWE\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\make new exploit xd\AWE (1)\AWE\AWE\AWE\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\make new exploit xd\AWE (1)\AWE\AWE\AWE\obj\Debug\AWE.csproj.CopyComplete
+E:\make new exploit xd\AWE (1)\AWE\AWE\AWE\obj\Debug\AWE.exe
+E:\make new exploit xd\AWE (1)\AWE\AWE\AWE\obj\Debug\AWE.credits.resources
+E:\make new exploit xd\AWE (2)\AWE\AWE\AWE\obj\Debug\AWE.csproj.AssemblyReference.cache
+E:\make new exploit xd\AWE (2)\AWE\AWE\AWE\obj\Debug\AWE.csproj.SuggestedBindingRedirects.cache
+E:\make new exploit xd\AWE (2)\AWE\AWE\AWE\obj\Debug\AWE.AWEh.resources
+E:\make new exploit xd\AWE (2)\AWE\AWE\AWE\obj\Debug\AWE.awem.resources
+E:\make new exploit xd\AWE (2)\AWE\AWE\AWE\obj\Debug\AWE.Properties.Resources.resources
+E:\make new exploit xd\AWE (2)\AWE\AWE\AWE\obj\Debug\AWE.csproj.GenerateResource.cache
+E:\make new exploit xd\AWE (2)\AWE\AWE\AWE\obj\Debug\AWE.csproj.CoreCompileInputs.cache
+E:\make new exploit xd\AWE (2)\AWE\AWE\AWE\obj\Debug\AWE.exe
+E:\make new exploit xd\AWE (2)\AWE\AWE\AWE\obj\Debug\AWE.pdb
+E:\make new exploit xd\AWE (2)\AWE\AWE\AWE\bin\Debug\AWE.exe.config
+E:\make new exploit xd\AWE (2)\AWE\AWE\AWE\bin\Debug\AWE.exe
+E:\make new exploit xd\AWE (2)\AWE\AWE\AWE\bin\Debug\AWE.pdb
+E:\make new exploit xd\AWE (2)\AWE\AWE\AWE\bin\Debug\MaterialDesignColors.pdb
+E:\make new exploit xd\AWE (2)\AWE\AWE\AWE\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\make new exploit xd\AWE (2)\AWE\AWE\AWE\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\make new exploit xd\AWE (2)\AWE\AWE\AWE\obj\Debug\AWE.csproj.CopyComplete
+E:\make new exploit xd\AWE (2)\AWE\AWE\AWE\obj\Debug\AWE.mics.resources
+E:\make new exploit xd\AWE (2)\AWE\AWE\AWE\bin\Debug\FluxAPI.dll
+E:\make new roblos hax xd\AWE (2)\AWE\AWE\AWE\bin\Debug\AWE.exe.config
+E:\make new roblos hax xd\AWE (2)\AWE\AWE\AWE\bin\Debug\AWE.exe
+E:\make new roblos hax xd\AWE (2)\AWE\AWE\AWE\bin\Debug\AWE.pdb
+E:\make new roblos hax xd\AWE (2)\AWE\AWE\AWE\bin\Debug\FluxAPI.dll
+E:\make new roblos hax xd\AWE (2)\AWE\AWE\AWE\bin\Debug\MaterialDesignColors.pdb
+E:\make new roblos hax xd\AWE (2)\AWE\AWE\AWE\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\make new roblos hax xd\AWE (2)\AWE\AWE\AWE\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\make new roblos hax xd\AWE (2)\AWE\AWE\AWE\obj\Debug\AWE.csproj.AssemblyReference.cache
+E:\make new roblos hax xd\AWE (2)\AWE\AWE\AWE\obj\Debug\AWE.csproj.SuggestedBindingRedirects.cache
+E:\make new roblos hax xd\AWE (2)\AWE\AWE\AWE\obj\Debug\AWE.mics.resources
+E:\make new roblos hax xd\AWE (2)\AWE\AWE\AWE\obj\Debug\AWE.AWEh.resources
+E:\make new roblos hax xd\AWE (2)\AWE\AWE\AWE\obj\Debug\AWE.awem.resources
+E:\make new roblos hax xd\AWE (2)\AWE\AWE\AWE\obj\Debug\AWE.Properties.Resources.resources
+E:\make new roblos hax xd\AWE (2)\AWE\AWE\AWE\obj\Debug\AWE.csproj.GenerateResource.cache
+E:\make new roblos hax xd\AWE (2)\AWE\AWE\AWE\obj\Debug\AWE.csproj.CoreCompileInputs.cache
+E:\make new roblos hax xd\AWE (2)\AWE\AWE\AWE\obj\Debug\AWE.csproj.CopyComplete
+E:\make new roblos hax xd\AWE (2)\AWE\AWE\AWE\obj\Debug\AWE.exe
+E:\make new roblos hax xd\AWE (2)\AWE\AWE\AWE\obj\Debug\AWE.pdb
+E:\make new roblos hax xd\AWE (2)\AWE\AWE\AWE\bin\Debug\WeAreDevs_API.dll
